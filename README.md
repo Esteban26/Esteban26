@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Esteban26
 - 💚 I'm student at platzi
+- I'm student at UNAL
+- I'm student at Virtual SENA
 - 💻 I'm frontend developer
 - technologies:
    * HTML
